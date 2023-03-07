@@ -12,7 +12,6 @@ function Pagnation({ totalPostsCount }) {
 
 
     return (
-
         <nav aria-label=" my-6">
             <ul className={styles.flex}>
                 {

@@ -1,1 +1,6 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## Yazan Aamers Blog.
+
+## TODO
+* create a form for creating a new post.
+* updating new post.
+* view each post in its own path.
