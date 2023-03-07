@@ -17,8 +17,8 @@
 - [ ] view each post in its own path.
 
 ## Some screenshots
-<img src="/home/yazan/sandbox/next/nextjs-blog/images/info.png" width="49%">
-<img src="/home/yazan/sandbox/next/nextjs-blog/images/posts.png" width="50%">
+<img src="./images/info.png" width="49%">
+<img src="./images/posts.png" width="50%">
 
 
 
