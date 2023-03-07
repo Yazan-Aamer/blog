@@ -15,3 +15,10 @@
 - [ ] create a form for creating a new post.
 - [ ] updating new post.
 - [ ] view each post in its own path.
+
+## Some screenshots
+<img src="/home/yazan/sandbox/next/nextjs-blog/images/info.png" width="49%">
+<img src="/home/yazan/sandbox/next/nextjs-blog/images/posts.png" width="50%">
+
+
+
